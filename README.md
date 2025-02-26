@@ -75,9 +75,6 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 - The first two principal components capture more than **95%** of the total variance.
 - The transformed dataset is visualized in a **2D scatter plot**, clearly distinguishing between the three iris species.
 
-## Example Output
-### Scatter Plot of Principal Components
-![PCA Scatter Plot](your-image-path.png)
 
 ### Explained Variance
 ```
@@ -85,11 +82,10 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 2. Cumulative Variance Explained: [72.9%, 95.7%, 98.8%, 100%]
 ```
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
+
 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions, feel free to open a pull request.
 
 ## Author
-Your Name - [GitHub Profile](https://github.com/your-github)
+Faig Gafarov - [GitHub Profile](https://github.com/faiggafarov)
