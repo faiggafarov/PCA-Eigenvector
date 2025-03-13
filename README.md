@@ -42,7 +42,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 ### Running the Code
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/pca-using-eigenvectors.git
+   git clone https://github.com/faiggafarov/pca-using-eigenvectors.git
    ```
 2. Navigate to the project directory:
    ```bash
